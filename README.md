@@ -10,3 +10,8 @@ Team members: <br/>
 • Sagar Kumar Karn (19HS20039) <br/>
 • Tushar Mohta (19HS20055) <br/>
 • Yash Kulkarni (18EE3AI22) <br/>
+
+The details of the experiments performed are highlighted in the report(.pdf) file above. <br/>
+Download the fine-tuned LED-base model on elife dataset from here : 
+Download the fine-tuned LED-base model on PLOS dataset from here : 
+
